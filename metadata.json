@@ -1,0 +1,7 @@
+{
+  "name": "Ai cocoa processing Dashboard ",
+  "description": "Real-time AI processing plant dashboard for cocoa quality, efficiency, and predictive maintenance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

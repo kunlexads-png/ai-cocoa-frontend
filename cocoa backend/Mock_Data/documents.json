@@ -1,0 +1,14 @@
+[
+  {
+    "document_id": "DOC-001",
+    "batch_id": "BATCH-001",
+    "document_type": "Phytosanitary Certificate",
+    "status": "Valid"
+  },
+  {
+    "document_id": "DOC-002",
+    "batch_id": "BATCH-002",
+    "document_type": "Export Permit",
+    "status": "Missing"
+  }
+]

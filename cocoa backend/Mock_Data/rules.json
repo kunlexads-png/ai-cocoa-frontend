@@ -1,0 +1,18 @@
+[
+  {
+    "rule_id": "RULE-001",
+    "rule_name": "EU Minimum Quality",
+    "rule_type": "QUALITY",
+    "min_quality_score": 85,
+    "severity": "High",
+    "active": true
+  },
+  {
+    "rule_id": "RULE-002",
+    "rule_name": "Restricted Destinations",
+    "rule_type": "COUNTRY",
+    "restricted_countries": ["North Korea"],
+    "severity": "High",
+    "active": true
+  }
+]

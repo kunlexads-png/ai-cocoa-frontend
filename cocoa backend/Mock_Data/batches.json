@@ -1,0 +1,16 @@
+[
+  {
+    "batch_id": "BATCH-001",
+    "origin": "Ondo State",
+    "quality_score": 92,
+    "export_status": "Approved",
+    "destination": "Netherlands"
+  },
+  {
+    "batch_id": "BATCH-002",
+    "origin": "Ogun State",
+    "quality_score": 78,
+    "export_status": "Pending",
+    "destination": "Germany"
+  }
+]
